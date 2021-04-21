@@ -83,7 +83,7 @@ p {
     background-color: hsl(180, 62%, 55%);
 }
 .orange::after{
-    background-color: hsl(34, 97%, 64%));
+    background-color: hsl(34, 97%, 64%);
 }
 .blue::after{
     background-color: hsl(212, 86%, 64%);
